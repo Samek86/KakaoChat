@@ -1,3 +1,3 @@
 # KakaoChat
 
-시연영상 : https://youtu.be/v7DpUvJNZ5Q
+시연영상 : <b>https://youtu.be/v7DpUvJNZ5Q</b>
